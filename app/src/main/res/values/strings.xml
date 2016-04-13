@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Combustível Flex</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1199102836233471/9556263749</string>
+    <string name="hint_gasolina">Digite o valor da gasolina</string>
+    <string name="hint_etanol">Digite o valor do etanol</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="err_msg_gasolina">Campo não pode ficar vazio.</string>
+    <string name="err_msg_etanol">Campo não pode ficar vazio.</string>
+    <string name="textResultado">O melhor combústivel para o seu carro é:</string>
+    <string name="textEcon">A chave para não gastar demais é a troca de marcha na hora certa (veja o quadro). Passando a marcha errada, o motor vai entender que a marcha não está compatível com a aceleração e pode injetar mais combustível.</string>
+</resources>
